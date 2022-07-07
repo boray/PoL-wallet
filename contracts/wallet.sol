@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.1;
 
-contract ProofOfLivelinessWallet {
+contract ProofOfLivenessWallet {
 
         address public owner; // owner of the contract therefore the wallet
         address public inheritor; // inheritor of the funds in this wallet
